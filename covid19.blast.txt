@@ -1,0 +1,112 @@
+BlastN against NCBI nucleotide database version 
+
+
+>N1F
+GACCCCAAAATCAGCGAAAT
+>N1R
+TCTGGTTACTGCCAGTTGAATCTG
+>N1P
+ACCCCGCATTACGTTTGGTGGACC
+>N2F
+TTACAAACATTGGCCGCAAA
+>N2R
+GCGCGACATTCCGAAGAA
+>N2P
+ACAATTTGCCCCCAGCGCTTCAG
+
+
+>Human coronavirus 229E 
+No matches > 80% homology
+
+>Human coronavirus OC43
+No matches > 80% homology
+
+>Human coronavirus HKU1
+No matches > 80% homology
+
+>Human coronavirus NL63
+No matches > 80% homology
+
+>SARS-coronavirus (excluding SARS-CoV-2 )
+
+Matches N1R > 80% homology
+   Bat coronavirus RaTG13, complete genome
+   SARS coronavirus Urbani Isolate
+   SARS Tor2,HKU,MA15,other SARS strains
+
+Matches N1P > 80% homology
+   Bat coronavirus RaTG13, complete genome
+   SARS coronavirus Urbani Isolate
+   SARS Tor2,HKU,MA15,other SARS strains
+
+Matches N2F > 80% homology
+   Bat coronavirus RaTG13, complete genome
+   SARS coronavirus Urbani Isolate
+   SARS Tor2,HKU,MA15,other SARS strains
+
+Matches N2R > 80% homology
+   Bat coronavirus RaTG13, complete genome
+
+Matches N2P > 80% homology
+   Bat coronavirus RaTG13, complete genome
+
+>MERS-coronavirus
+   No matches > 80% homology
+
+>Adenovirus (e.g. C1 Ad. 71)
+   No matches > 80% homology
+
+>Human Metapneumovirus (hMPV)
+   No matches > 80% homology
+
+>Parainfluenza virus 1-4
+   No matches > 80% homology
+
+>Influenza A & B
+
+>Enterovirus (e.g. EV68)
+
+>Respiratory syncytial virus 
+
+>Rhinovirus
+
+>Chlamydia pneumoniae
+
+>Haemophilus influenzae
+
+>Legionella pneumophila
+
+>Mycobacterium tuberculosis
+
+>Streptococcus pneumoniae
+
+>Streptococcus pyogenes
+
+>Bordetella pertussis
+
+>Mycoplasma pneumoniae
+
+>Pneumocystis jirovecii (PJP)
+
+>Candida albicans
+
+>Pseudomonas aeruginosa
+
+>Staphylococcus epidermis
+
+>Staphylococcus epidermis
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
