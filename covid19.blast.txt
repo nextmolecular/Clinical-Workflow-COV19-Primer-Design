@@ -1,5 +1,6 @@
-BlastN against NCBI nucleotide database version 
+BlastN against NCBI nucleotide database Release 238.0
 
+Primer Target Sequences:
 
 >N1F
 GACCCCAAAATCAGCGAAAT
@@ -63,41 +64,55 @@ Matches N2P > 80% homology
    No matches > 80% homology
 
 >Influenza A & B
+   No matches > 80% homology
 
 >Enterovirus (e.g. EV68)
+   No matches > 80% homology
 
 >Respiratory syncytial virus 
+   No matches > 80% homology
 
 >Rhinovirus
+   No matches > 80% homology
 
 >Chlamydia pneumoniae
+   No matches > 80% homology
 
 >Haemophilus influenzae
+   No matches > 80% homology
 
 >Legionella pneumophila
+   No matches > 80% homology
 
 >Mycobacterium tuberculosis
+   No matches > 80% homology
 
 >Streptococcus pneumoniae
+   No matches > 80% homology
 
 >Streptococcus pyogenes
+   No matches > 80% homology
 
 >Bordetella pertussis
+   No matches > 80% homology
 
 >Mycoplasma pneumoniae
+   No matches > 80% homology
 
 >Pneumocystis jirovecii (PJP)
+   No matches > 80% homology
 
 >Candida albicans
+   No matches > 80% homology
 
 >Pseudomonas aeruginosa
+   No matches > 80% homology
 
 >Staphylococcus epidermis
+   No matches > 80% homology
 
 >Staphylococcus epidermis
-
-
-
+   No matches > 80% homology
 
 
 
